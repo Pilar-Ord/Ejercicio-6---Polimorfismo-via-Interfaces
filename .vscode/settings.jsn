@@ -1,0 +1,6 @@
+
+{
+    "java.project.sourcePaths": ["Src"],
+    "java.project.outputPath": "Bin",
+    "java.project.explorer.showNonJavaResources": true
+}
